@@ -12,4 +12,4 @@ SSL/TLS	: 143, 443
 UDPGW	: 7200, 7300
 Calamar	: 8080, 8080, 8888
 
-SNl coneccion   coronavirus.gob.mx
+SNl coneccion   www.coronavirus.gob.mx
